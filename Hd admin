@@ -93,10 +93,10 @@ LMG2L["gui name_9"]["TextSize"] = 24;
 LMG2L["gui name_9"]["TextStrokeColor3"] = Color3.fromRGB(30, 71, 255);
 LMG2L["gui name_9"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
 LMG2L["gui name_9"]["FontFace"] = Font.new([[rbxasset://fonts/families/HighwayGothic.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
-LMG2L["gui name_9"]["TextColor3"] = Color3.fromRGB(255, 196, 27);
+LMG2L["gui name_9"]["TextColor3"] = Color3.fromRGB(1, 1, 1);
 LMG2L["gui name_9"]["BackgroundTransparency"] = 1;
 LMG2L["gui name_9"]["Size"] = UDim2.new(0, 144, 0, 52);
-LMG2L["gui name_9"]["Text"] = [[ S93NEW Hd admin]];
+LMG2L["gui name_9"]["Text"] = [[Hd admin GUi]];
 LMG2L["gui name_9"]["Name"] = [[gui name]];
 LMG2L["gui name_9"]["Position"] = UDim2.new(0, 134, 0, -10);
 
